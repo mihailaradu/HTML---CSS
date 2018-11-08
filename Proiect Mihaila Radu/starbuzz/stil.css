@@ -1,8 +1,12 @@
 body {
   background-color: tan;
-  font-family: sans-serif;
+  font-family: cursive;
   margin-left: 10%;
 }
 h2 {
+  font-family: serif;
   color: green;
+}
+.denumire{
+  color: red;
 }
